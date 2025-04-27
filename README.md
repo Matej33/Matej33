@@ -15,9 +15,9 @@
 
 ### Who the hell is this guy?
 
-- UNI student | Frontend dev | Android dev | Coffee enjoyer
+- UNI student | Frontend dev | Android dev | Coffee & RedBull enjoyer
 - Building **ClassLinker** – because school forums should *not* look like they’re from 1998
-- Dreaming of shipping products, crushing triathlons, and driving a damn Porsche
+- Dreaming of shipping products, crushing IronMan, and driving a damn Porsche
 
 ---
 
