@@ -24,6 +24,7 @@
 ## 🚀 Main Stack:
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,6 +38,7 @@
 ## 📚 Currently Learning
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,7 +63,7 @@
 
 ---
 
-## Editors
+## 🛠️ Editors
 
 ![Android studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)
@@ -98,6 +100,21 @@ I like putting my brain through hell just to print `"YES"`.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Matej33&theme=radical&no-frame=true&row=1" />
 </p>
+
+---
+
+## 👀 Something more about me
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
+![Brave](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge)
+![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=fff&style=for-the-badge)
+![Gaming](https://img.shields.io/badge/Gaming-9146FF?logo=steam&logoColor=fff&style=for-the-badge)
+<!--
+![Red Bull](https://img.shields.io/badge/Red%20Bull-DB0A40?logo=redbull&logoColor=fff&style=for-the-badge)
+![Triathlon](https://img.shields.io/badge/Triathlon-F15A24?logo=runkeeper&logoColor=fff&style=for-the-badge)
+![Remote Work](https://img.shields.io/badge/Remote%20Work-2E8B57?logo=nomad&logoColor=fff&style=for-the-badge)
+-->
 
 ---
 
