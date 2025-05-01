@@ -78,7 +78,7 @@
 I like putting my brain through hell just to print `"YES"`.
 
 - 🧨 **[Codeforces](https://codeforces.com/profile/mattho)** – Solving problems under pressure because time is a luxury I don't deserve.  
-- 🧩 **[LeetCode](https://leetcode.com/u/matopucik/)** – Preparing for FAANG interviews I never applied for.  
+- 🧩 **[LeetCode](https://leetcode.com/u/mato3/)** – Preparing for FAANG interviews I never applied for.  
 - 🍛 **[CodeChef](https://www.codechef.com/users/mato3)** – Where I try to cook up solutions that don’t TLE.  
 - 🎄 **Advent of Code** – Every December feels like a tactical coding war with Christmas decorations. I participate via GitHub.  
 - 🔢 **Project Euler** – When I feel like mixing math, madness, and modular arithmetic.  
@@ -106,6 +106,7 @@ I like putting my brain through hell just to print `"YES"`.
 ## 👀 Something more about me
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge)
 ![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=fff&style=for-the-badge)
