@@ -13,6 +13,29 @@
 
 ---
 
+> ⏳ Last updated on <!--LAST_UPDATED--> <!--END-->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matej33&label=Profile%20views&color=0e75b6&style=flat" alt="Matej33" />
+</p>
+
+---
+
+![Repo Size](https://img.shields.io/github/repo-size/Matej33/ClassLinker?style=for-the-badge)
+
+---
+
+![Commits this year](https://img.shields.io/github/commit-activity/y/Matej33/Matej33?style=for-the-badge)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matej33/Matej33/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+---
+
 ### Who the hell is this guy?
 
 - UNI student | Frontend dev | Android dev | Coffee & RedBull enjoyer
